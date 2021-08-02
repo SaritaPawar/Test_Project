@@ -1,0 +1,114 @@
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\MVCBridge.dll.config
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\MVCBridge.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\MVCBridge.pdb
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Antlr3.Runtime.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\EntityFramework.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\EntityFramework.SqlServer.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Owin.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Owin.Security.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Owin.Security.Google.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Web.Infrastructure.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Newtonsoft.Json.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Owin.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\System.Net.Http.Formatting.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\System.Web.Helpers.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\System.Web.Mvc.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\System.Web.Optimization.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\System.Web.Razor.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\System.Web.WebPages.Deployment.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\System.Web.WebPages.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\System.Web.WebPages.Razor.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\WebGrease.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\System.Net.Http.Formatting.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\System.Web.Helpers.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\System.Web.Mvc.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\System.Web.Optimization.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\System.Web.Razor.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\System.Web.WebPages.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\System.Web.WebPages.Deployment.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\System.Web.WebPages.Razor.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Newtonsoft.Json.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Antlr3.Runtime.pdb
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\EntityFramework.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\EntityFramework.SqlServer.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Owin.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Owin.Security.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Owin.Security.Google.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\obj\Debug\MVCBridge.csprojResolveAssemblyReference.cache
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\obj\Debug\MVCBridge.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\MVCBridge\obj\Debug\MVCBridge.pdb
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\MVCBridge.dll.config
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\MVCBridge.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\MVCBridge.pdb
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Antlr3.Runtime.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\EntityFramework.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\EntityFramework.SqlServer.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Owin.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Owin.Security.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Owin.Security.Google.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Web.Infrastructure.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Newtonsoft.Json.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Owin.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\System.Net.Http.Formatting.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\System.Web.Helpers.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\System.Web.Mvc.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\System.Web.Optimization.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\System.Web.Razor.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\System.Web.WebPages.Deployment.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\System.Web.WebPages.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\System.Web.WebPages.Razor.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\WebGrease.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\System.Net.Http.Formatting.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\System.Web.Helpers.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\System.Web.Mvc.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\System.Web.Optimization.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\System.Web.Razor.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\System.Web.WebPages.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\System.Web.WebPages.Deployment.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\System.Web.WebPages.Razor.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Newtonsoft.Json.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Antlr3.Runtime.pdb
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\EntityFramework.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\EntityFramework.SqlServer.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Owin.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Owin.Security.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Owin.Security.Google.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\obj\Debug\MVCBridge.csprojResolveAssemblyReference.cache
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\obj\Debug\MVCBridge.dll
+D:\Sarita\New folder\Bridge\Bridge\MVCBridge\obj\Debug\MVCBridge.pdb

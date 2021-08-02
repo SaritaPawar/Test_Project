@@ -1,0 +1,68 @@
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\Bridge.dll.config
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\Bridge.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\Bridge.pdb
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\Antlr3.Runtime.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\EntityFramework.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\Microsoft.Web.Infrastructure.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\Newtonsoft.Json.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Net.Http.Formatting.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Web.Helpers.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Web.Http.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Web.Http.WebHost.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Web.Mvc.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Web.Optimization.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Web.Razor.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Web.WebPages.Deployment.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Web.WebPages.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Web.WebPages.Razor.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\WebGrease.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\EntityFramework.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\Newtonsoft.Json.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Net.Http.Formatting.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Web.Helpers.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Web.Http.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Web.Http.WebHost.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Web.Mvc.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Web.Optimization.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Web.Razor.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Web.WebPages.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Web.WebPages.Deployment.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\System.Web.WebPages.Razor.xml
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\bin\Antlr3.Runtime.pdb
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\obj\Debug\Bridge.dll
+D:\Sarita\New folder\WebAPI Demo\ExportFile\Bridge\Bridge\obj\Debug\Bridge.pdb
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\Bridge.dll.config
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\Bridge.dll
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\Bridge.pdb
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\Antlr3.Runtime.dll
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\EntityFramework.dll
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\Microsoft.Web.Infrastructure.dll
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\Newtonsoft.Json.dll
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Net.Http.Formatting.dll
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Web.Helpers.dll
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Web.Http.dll
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Web.Http.WebHost.dll
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Web.Mvc.dll
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Web.Optimization.dll
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Web.Razor.dll
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Web.WebPages.Deployment.dll
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Web.WebPages.dll
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Web.WebPages.Razor.dll
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\WebGrease.dll
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\EntityFramework.xml
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\Newtonsoft.Json.xml
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Net.Http.Formatting.xml
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Web.Helpers.xml
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Web.Http.xml
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Web.Http.WebHost.xml
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Web.Mvc.xml
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Web.Optimization.xml
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Web.Razor.xml
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Web.WebPages.xml
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Web.WebPages.Deployment.xml
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\System.Web.WebPages.Razor.xml
+D:\Sarita\New folder\Bridge\Bridge\Bridge\bin\Antlr3.Runtime.pdb
+D:\Sarita\New folder\Bridge\Bridge\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+D:\Sarita\New folder\Bridge\Bridge\Bridge\obj\Debug\Bridge.dll
+D:\Sarita\New folder\Bridge\Bridge\Bridge\obj\Debug\Bridge.pdb
